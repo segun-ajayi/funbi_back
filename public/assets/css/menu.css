@@ -1190,7 +1190,7 @@ a.add-btn {
   .mailbox {
     width: 280px;
   }
-  .user-name, {
+  .user-name{
     display: none;
   }
   .sb-toggle-right{
@@ -1201,8 +1201,7 @@ a.add-btn {
   }
 }
 @media screen and (max-width: 320px) {
-  .d-none,
-   {
+  .d-none{
     display: none;
   }
   .sb-toggle-right{
